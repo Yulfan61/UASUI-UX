@@ -1,0 +1,1034 @@
+.vector-icon {
+  height: 66.8px;
+  width: 70px;
+  position: relative;
+}
+.menu2 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 83px;
+  cursor: pointer;
+}
+.menu-container,
+.menu-list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.menu-list-item {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--padding-9xs) 0 0;
+}
+.promo {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 95px;
+  cursor: pointer;
+}
+.promo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-4xs);
+}
+.frame1,
+.menu-list-container {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.frame1 {
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--padding-10xs) 0 0;
+}
+.menu-list-container {
+  width: 289px;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.dunia-anak {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.dunia-anak-wrapper,
+.frame3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.frame3 {
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--padding-11xs) 0 0;
+}
+.berita-terkini {
+  text-decoration: none;
+  height: 38px;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.berita-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-5xs);
+}
+.dunia-container,
+.frame4 {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.frame4 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: var(--padding-10xs) 0 0;
+}
+.dunia-container {
+  width: 430px;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-22xl);
+  max-width: 100%;
+}
+.icon-maps-and-flags-4 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  flex-shrink: 0;
+}
+.lokasi {
+  height: 60px;
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.lokasi-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  gap: var(--gap-9xl);
+}
+.frame5 {
+  width: 178px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.frame,
+.frame2 {
+  overflow: hidden;
+  flex-direction: row;
+}
+.frame2 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame {
+  width: 1039px;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+}
+.frame,
+.menu,
+.menu-wrapper,
+.menu1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.menu1 {
+  align-self: stretch;
+  background-color: var(--color-gainsboro-100);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-9xl) var(--padding-xl) var(--padding-3xl);
+  box-sizing: border-box;
+  gap: 49px;
+}
+.menu,
+.menu-wrapper {
+  justify-content: flex-start;
+}
+.menu {
+  flex: 1;
+  background-color: var(--color-tomato-300);
+  overflow: hidden;
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.menu-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.ig-3-1-icon {
+  width: 360px;
+  height: 310px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.ig-1-1-icon {
+  align-self: stretch;
+  height: 311px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.image-row,
+.image-row1 {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image-row1 {
+  width: 100%;
+  height: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  justify-content: flex-end;
+  z-index: 1;
+}
+.image-row {
+  margin-top: -3px;
+  height: 621px;
+  width: 360px;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.ig-5-1-icon {
+  width: 361px;
+  height: 310px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.ig-4-1-icon {
+  align-self: stretch;
+  height: 311px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame6,
+.image-row2 {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame6 {
+  width: 100%;
+  height: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  justify-content: flex-end;
+  z-index: 1;
+}
+.image-row2 {
+  margin-top: -3px;
+  height: 621px;
+  width: 361px;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.ig-3-2-icon {
+  width: 359px;
+  height: 310px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.ig-1-2-icon {
+  align-self: stretch;
+  height: 311px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame7,
+.image-row3 {
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame7 {
+  width: 100%;
+  height: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  justify-content: flex-end;
+  z-index: 1;
+}
+.image-row3 {
+  margin-top: -3px;
+  height: 621px;
+  width: 359px;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.ig-3-1-icon1 {
+  width: 360px;
+  height: 310px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.frame8,
+.ig-1-1-icon1 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ig-1-1-icon1 {
+  align-self: stretch;
+  height: 311px;
+  position: relative;
+  max-width: 100%;
+  object-fit: cover;
+}
+.frame8 {
+  width: 100%;
+  height: 100%;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  z-index: 1;
+}
+.image-row-parent,
+.image-row4 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.image-row4 {
+  margin-top: -4.2px;
+  height: 621px;
+  width: 360px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+.image-row-parent {
+  align-self: stretch;
+  height: 618px;
+  overflow-x: auto;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.menu-favorit {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+}
+.menu-list-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.menu-image-icon {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bic-ma {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.rp-15000 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  font-family: var(--font-lato);
+  white-space: nowrap;
+}
+.menu-price-item {
+  height: 520px;
+  box-shadow: 0 0 16px 16px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-46xl-5) var(--padding-31xl) var(--padding-50xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.menu-price-item-child {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.panas-1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.rp-150001 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  font-family: var(--font-lato);
+  white-space: nowrap;
+}
+.menu-price-item1 {
+  height: 520px;
+  box-shadow: 0 0 16px 16px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-46xl-5) var(--padding-31xl) var(--padding-50xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.menu-price-item-item {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mcnuggets {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.rp-150002 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  font-family: var(--font-lato);
+  white-space: nowrap;
+}
+.menu-price-item2 {
+  height: 520px;
+  box-shadow: 0 0 16px 16px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-46xl-5) var(--padding-31xl) var(--padding-50xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+}
+.menu-list-container1,
+.menu-price-list {
+  align-self: stretch;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.menu-price-list {
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-31xl);
+  grid-template-columns: repeat(3, minmax(315px, 1fr));
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-lilita-one);
+}
+.menu-list-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-33xl);
+}
+.lihat-semua-menu {
+  position: relative;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  font-family: var(--font-lato);
+  color: var(--color-white);
+  text-align: left;
+}
+.lihat-semua-menu-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 24.5px var(--padding-smi);
+  background-color: var(--color-tomato-200);
+  border-radius: var(--br-base);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.lihat-semua-menu-wrapper:hover {
+  background-color: var(--color-tomato-100);
+}
+.menu-favorit-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-33xl);
+  max-width: 100%;
+}
+.menu-favorit-container-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-21xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.beranda-container-icon {
+  height: 503px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-beranda {
+  align-self: stretch;
+  background-color: var(--color-goldenrod);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  cursor: pointer;
+}
+.blank-line,
+.mcdonalds {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+}
+.blank-line1,
+.blank-line2,
+.blank-line3,
+.hubungi-kami,
+.karier,
+.newsroom,
+.tentang-kami {
+  margin: 0;
+}
+.mcdonalds-hubungi-kami-container {
+  width: 209px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 209px;
+}
+.aplikasi-mcdonalds,
+.blank-line4,
+.blank-line5,
+.blank-line6,
+.csr,
+.layanan,
+.sertifikasi-jaminan {
+  margin: 0;
+}
+.layanan-sertifikasi-container {
+  position: relative;
+}
+.footer-service-list {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-49xl) 0 0;
+  box-sizing: border-box;
+  min-width: 259px;
+}
+.footer-links {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  min-width: 478px;
+  max-width: 100%;
+}
+.hubungi-kami1 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 800;
+}
+.footer-social-links {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-14xl) 0 var(--padding-smi);
+}
+.icon-facebook-icon {
+  min-height: 50px;
+}
+.icon-facebook-icon,
+.icon-twitter,
+.social-icon-item {
+  height: 50px;
+  width: 50.1px;
+  position: relative;
+}
+.icon-twitter {
+  min-height: 50px;
+}
+.social-icon-item1 {
+  height: 34.9px;
+  width: 50.1px;
+  position: relative;
+}
+.social-icon-list {
+  height: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 6.5px 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+}
+.footer-social-container,
+.footer-social-icons {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.footer-social-container {
+  align-items: center;
+  gap: var(--gap-4xl);
+}
+.button-appstore-1-icon,
+.button-playstore-1-icon {
+  align-self: stretch;
+  width: 150px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 43px;
+}
+.app-store-buttons {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.footer-app-store,
+.footer-social {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.footer-app-store {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-smi);
+}
+.footer-social {
+  width: 504px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 34.6px;
+  box-sizing: border-box;
+  gap: var(--gap-23xl);
+  min-width: 504px;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.footer-container,
+.footer-container-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer-container {
+  flex: 1;
+  overflow: hidden;
+  justify-content: space-between;
+  padding: var(--padding-4xl) var(--padding-lg) var(--padding-2xs) 0;
+  gap: var(--gap-xl);
+}
+.footer-container-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-16xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.mcdonalds-indonesia {
+  width: 308px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.syarat-ketentuan1 {
+  text-decoration: underline;
+}
+.syarat-ketentuan {
+  color: inherit;
+}
+.node,
+.syarat-ketentuan {
+  white-space: pre-wrap;
+}
+.kebijakan-privasi1 {
+  text-decoration: underline;
+}
+.kebijakan-privasi {
+  color: inherit;
+  white-space: pre-wrap;
+}
+.syarat-ketentuan-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.desktop-premier,
+.mcdonalds-indonesia-parent {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+}
+.mcdonalds-indonesia-parent {
+  align-self: stretch;
+  background-color: var(--color-gainsboro-200);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-16xl) var(--padding-13xl) var(--padding-base)
+    var(--padding-27xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.desktop-premier {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-goldenrod);
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 46.2px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .menu-price-list {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(315px, 546px));
+  }
+}
+@media screen and (max-width: 1100px) {
+  .menu-price-list {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(315px, 546px));
+  }
+  .footer-links,
+  .footer-social {
+    flex: 1;
+  }
+  .footer-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .menu-favorit {
+    font-size: var(--font-size-32xl);
+  }
+  .bic-ma {
+    font-size: var(--font-size-19xl);
+  }
+  .rp-15000 {
+    font-size: var(--font-size-7xl);
+  }
+  .panas-1 {
+    font-size: var(--font-size-19xl);
+  }
+  .rp-150001 {
+    font-size: var(--font-size-7xl);
+  }
+  .mcnuggets {
+    font-size: var(--font-size-19xl);
+  }
+  .hubungi-kami1,
+  .rp-150002 {
+    font-size: var(--font-size-7xl);
+  }
+  .mcdonalds-indonesia-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .menu-favorit {
+    font-size: var(--font-size-32xl);
+  }
+  .bic-ma {
+    font-size: var(--font-size-19xl);
+  }
+  .rp-15000 {
+    font-size: var(--font-size-7xl);
+  }
+  .panas-1 {
+    font-size: var(--font-size-19xl);
+  }
+  .rp-150001 {
+    font-size: var(--font-size-7xl);
+  }
+  .mcnuggets {
+    font-size: var(--font-size-19xl);
+  }
+  .hubungi-kami1,
+  .rp-150002 {
+    font-size: var(--font-size-7xl);
+  }
+  .mcdonalds-indonesia-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame {
+    gap: var(--gap-8xl);
+  }
+  .menu1 {
+    gap: var(--gap-5xl);
+    padding-left: var(--padding-52xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .menu-price-item,
+  .menu-price-item1,
+  .menu-price-item2 {
+    padding-top: var(--padding-24xl);
+    padding-bottom: var(--padding-26xl);
+    box-sizing: border-box;
+  }
+  .menu-price-list {
+    gap: var(--gap-6xl);
+    grid-template-columns: minmax(315px, 1fr);
+  }
+  .menu-favorit-container,
+  .menu-list-container1 {
+    gap: var(--gap-7xl);
+  }
+  .footer-service-list,
+  .mcdonalds-hubungi-kami-container {
+    flex: 1;
+  }
+  .footer-links {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .footer-social {
+    gap: var(--gap-2xl);
+    min-width: 100%;
+  }
+  .mcdonalds-indonesia-parent {
+    padding-left: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .desktop-premier {
+    gap: var(--gap-4xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .dunia-container {
+    gap: var(--gap-xl);
+  }
+  .menu1 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .menu-favorit {
+    font-size: var(--font-size-19xl);
+  }
+  .bic-ma {
+    font-size: var(--font-size-10xl);
+  }
+  .rp-15000 {
+    font-size: var(--font-size-lgi);
+  }
+  .menu-price-item {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .panas-1 {
+    font-size: var(--font-size-10xl);
+  }
+  .rp-150001 {
+    font-size: var(--font-size-lgi);
+  }
+  .menu-price-item1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .mcnuggets {
+    font-size: var(--font-size-10xl);
+  }
+  .rp-150002 {
+    font-size: var(--font-size-lgi);
+  }
+  .menu-price-item2 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .mcdonalds-hubungi-kami-container {
+    font-size: var(--font-size-base);
+    flex: 1;
+  }
+  .layanan-sertifikasi-container {
+    font-size: var(--font-size-base);
+  }
+  .hubungi-kami1 {
+    font-size: var(--font-size-lgi);
+  }
+  .app-store-buttons {
+    flex-wrap: wrap;
+  }
+  .mcdonalds-indonesia,
+  .syarat-ketentuan-container {
+    font-size: var(--font-size-base);
+  }
+}

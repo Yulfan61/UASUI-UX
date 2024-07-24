@@ -1,0 +1,978 @@
+.icon-mcdonalds3 {
+  width: 70px;
+  height: 66.8px;
+  position: relative;
+  cursor: pointer;
+}
+.icon-mcdonalds-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+}
+.menu10 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  cursor: pointer;
+}
+.menu-wrapper1 {
+  width: 147px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.promo4 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+}
+.promo-frame {
+  width: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.dunia-anak3 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.container,
+.nested-container {
+  margin: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nested-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-9xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.container {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs) var(--padding-8xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.berita-terkini3 {
+  width: 210px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.berita-terkini-wrapper1 {
+  width: 256px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.icon-maps-and-flags-43 {
+  width: 30px;
+  height: 30px;
+  position: relative;
+}
+.icon-maps-and-flags-4-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+}
+.lokasi3 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  cursor: pointer;
+}
+.lokasi-frame,
+.menu9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.lokasi-frame {
+  width: 210px;
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+}
+.menu9 {
+  align-self: stretch;
+  background-color: var(--color-gainsboro-100);
+  overflow: hidden;
+  flex-direction: row;
+  padding: var(--padding-9xl) var(--padding-30xl) var(--padding-8xl-2)
+    var(--padding-124xl);
+  gap: var(--gap-9xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.icon-mcdonalds4 {
+  height: 66.8px;
+  width: 70px;
+  position: relative;
+}
+.mcdonalds-indonesia4 {
+  align-self: stretch;
+  height: 35px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.mcdonalds-indonesia-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base-9) 0 0;
+  box-sizing: border-box;
+  min-width: 253px;
+  max-width: 100%;
+}
+.inner-content,
+.mcdonald-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.mcdonald-container {
+  width: 504px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+}
+.inner-content {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.empty-container-child {
+  height: 503px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.empty-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-smi);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child1,
+.semua-promo {
+  position: relative;
+  max-width: 100%;
+}
+.frame-child1 {
+  height: 100px;
+  width: 470px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-tomato-200);
+  display: none;
+}
+.semua-promo {
+  flex: 1;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  font-weight: 900;
+  font-family: var(--font-lato);
+  color: var(--color-white);
+  text-align: center;
+  z-index: 1;
+}
+.promo-container1,
+.rectangle-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-group {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-lg) var(--padding-27xl) var(--padding-6xl);
+  background-color: var(--color-tomato-200);
+  width: 470px;
+  border-radius: var(--br-31xl);
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.rectangle-group:hover {
+  background-color: var(--color-tomato-100);
+}
+.promo-container1 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 79px var(--padding-2xl);
+}
+.rectangle-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.nested-banner-content-child {
+  height: 76px;
+  width: 294px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato-200);
+  display: none;
+}
+.icon-calendar1 {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.458);
+}
+.wrapper-icon-calendar1 {
+  width: 28.4px;
+  height: 30px;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-icon-calendar-container {
+  height: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.agustus-20241,
+.berlaku-hingga1 {
+  margin: 0;
+}
+.berlaku-hingga-13-container1 {
+  width: 198px;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.inner-banner-content,
+.nested-banner-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.nested-banner-content {
+  width: 294px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato-200);
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-lg);
+  box-sizing: border-box;
+  gap: var(--gap-lg-6);
+}
+.inner-banner-content {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.rectangle-container {
+  height: 428px;
+  width: 606px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-16xl);
+  max-width: 100%;
+  cursor: pointer;
+}
+.frame-child2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child3 {
+  height: 76px;
+  width: 294px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato-200);
+  display: none;
+}
+.icon-calendar2 {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.458);
+}
+.wrapper-icon-calendar2 {
+  width: 28.4px;
+  height: 30px;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-icon-calendar-frame {
+  height: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.berlaku-hingga2,
+.september-2024 {
+  margin: 0;
+}
+.berlaku-hingga-02-container {
+  width: 198px;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-wrapper1,
+.rectangle-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent2 {
+  width: 294px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato-200);
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-lg);
+  box-sizing: border-box;
+  gap: var(--gap-lg-6);
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.rectangle-parent1 {
+  height: 428px;
+  width: 606px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 712px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-16xl);
+  max-width: 100%;
+  cursor: pointer;
+}
+.frame-child4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child5 {
+  height: 76px;
+  width: 294px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato-200);
+  display: none;
+}
+.icon-calendar3 {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.458);
+}
+.wrapper-icon-calendar3 {
+  width: 28.4px;
+  height: 30px;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-icon-calendar-wrapper1 {
+  height: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.berlaku-hingga3,
+.juni-2024 {
+  margin: 0;
+}
+.berlaku-hingga-13-container2 {
+  width: 198px;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-wrapper2,
+.rectangle-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent4 {
+  width: 294px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato-200);
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-lg);
+  box-sizing: border-box;
+  gap: var(--gap-lg-6);
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.rectangle-parent3 {
+  height: 428px;
+  width: 606px;
+  margin: 0 !important;
+  position: absolute;
+  top: 525px;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-16xl);
+  max-width: 100%;
+  cursor: pointer;
+}
+.frame-child6 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-child7 {
+  height: 76px;
+  width: 294px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato-200);
+  display: none;
+}
+.icon-calendar4 {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.458);
+}
+.wrapper-icon-calendar4 {
+  width: 28.4px;
+  height: 30px;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-icon-calendar-wrapper2 {
+  height: 33px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.berlaku-hingga4,
+.juni-20241 {
+  margin: 0;
+}
+.berlaku-hingga-04-container {
+  width: 198px;
+  position: relative;
+  font-weight: 300;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-wrapper3,
+.rectangle-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent6 {
+  width: 294px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-tomato-200);
+  justify-content: flex-start;
+  padding: var(--padding-xl) var(--padding-lg);
+  box-sizing: border-box;
+  gap: var(--gap-lg-6);
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.banner-content,
+.promo-banner,
+.rectangle-parent5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent5 {
+  height: 428px;
+  width: 606px;
+  margin: 0 !important;
+  position: absolute;
+  top: 525px;
+  left: 712px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: var(--padding-mid) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-16xl);
+  cursor: pointer;
+}
+.banner-content,
+.promo-banner {
+  flex-direction: row;
+}
+.banner-content {
+  height: 953px;
+  flex: 1;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 97px 106px;
+}
+.promo-banner {
+  align-self: stretch;
+  padding: 0 var(--padding-24xl) var(--padding-4xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
+.blank-line21,
+.mcdonalds3 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+}
+.blank-line22,
+.blank-line23,
+.blank-line24,
+.hubungi-kami6,
+.karier3,
+.newsroom3,
+.tentang-kami3 {
+  margin: 0;
+}
+.mcdonalds-hubungi-kami-container3 {
+  width: 209px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 209px;
+}
+.aplikasi-mcdonalds3,
+.blank-line25,
+.blank-line26,
+.blank-line27,
+.csr3,
+.layanan3,
+.sertifikasi-jaminan3 {
+  margin: 0;
+}
+.layanan-sertifikasi-container3 {
+  position: relative;
+}
+.footer-links1,
+.layanan-sertifikasi-jaminan-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.layanan-sertifikasi-jaminan-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-49xl) 0 0;
+  box-sizing: border-box;
+  min-width: 168px;
+}
+.footer-links1 {
+  width: 478px;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+}
+.hubungi-kami7 {
+  flex: 1;
+  position: relative;
+  font-weight: 800;
+}
+.hubungi-kami-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xs);
+}
+.icon-facebook-icon3,
+.icon-instagram-icon2,
+.icon-twitter3 {
+  height: 50px;
+  width: 50.1px;
+  position: relative;
+  min-height: 50px;
+}
+.icon-youtube2 {
+  align-self: stretch;
+  height: 34.9px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon-youtube-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-10xs-1);
+}
+.inner-contact,
+.social-icons1 {
+  width: 254.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.inner-contact {
+  width: 283.2px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-8xl);
+}
+.button-appstore-1-icon3,
+.button-playstore-1-icon3 {
+  align-self: stretch;
+  width: 150px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 43px;
+}
+.button-appstore-1-parent,
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button-appstore-1-parent {
+  gap: var(--gap-mid);
+}
+.buttons-container {
+  padding: 0 0 0 var(--padding-xs);
+}
+.contact {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+  font-size: var(--font-size-13xl);
+}
+.contact,
+.content1,
+.footer-content2,
+.footer2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.footer-content2 {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.content1,
+.footer2 {
+  justify-content: flex-start;
+  box-sizing: border-box;
+  text-align: left;
+}
+.footer2 {
+  width: 1296px;
+  flex-direction: row;
+  padding: 0 var(--padding-34xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.content1 {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 var(--padding-2xs);
+  gap: var(--gap-45xl);
+  font-size: var(--font-size-13xl);
+  color: var(--color-tomato-200);
+  font-family: var(--font-baloo-da);
+}
+.mcdonalds-indonesia5 {
+  width: 308px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.syarat-ketentuan7 {
+  text-decoration: underline;
+}
+.syarat-ketentuan6 {
+  color: inherit;
+}
+.node3,
+.syarat-ketentuan6 {
+  white-space: pre-wrap;
+}
+.kebijakan-privasi7 {
+  text-decoration: underline;
+}
+.kebijakan-privasi6 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+.syarat-ketentuan-container3 {
+  align-self: stretch;
+  position: relative;
+}
+.syarat-ketentuan-kebijakan-p-container {
+  width: 418px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.copyright1,
+.promo3 {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+}
+.copyright1 {
+  align-self: stretch;
+  background-color: var(--color-gainsboro-200);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-16xl) var(--padding-13xl) var(--padding-20xl)
+    var(--padding-27xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.promo3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-goldenrod);
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-45xl);
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .footer2 {
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .hubungi-kami7,
+  .mcdonalds-indonesia4 {
+    font-size: var(--font-size-7xl);
+  }
+  .copyright1,
+  .footer-content2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .menu9 {
+    padding-left: var(--padding-52xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .mcdonald-container {
+    gap: var(--gap-3xl);
+  }
+  .promo-banner,
+  .rectangle-group {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .promo-banner {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+  }
+  .content1 {
+    gap: var(--gap-13xl);
+  }
+  .copyright1 {
+    padding-left: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .promo3 {
+    gap: var(--gap-13xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .menu9 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .mcdonalds-indonesia4 {
+    font-size: var(--font-size-lgi);
+  }
+  .mcdonalds-hubungi-kami-container3 {
+    font-size: var(--font-size-base);
+    flex: 1;
+  }
+  .layanan-sertifikasi-container3 {
+    font-size: var(--font-size-base);
+  }
+  .footer-links1 {
+    flex-wrap: wrap;
+  }
+  .hubungi-kami7 {
+    font-size: var(--font-size-lgi);
+  }
+  .button-appstore-1-parent {
+    flex-wrap: wrap;
+  }
+  .contact {
+    gap: var(--gap-2xl);
+  }
+  .content1 {
+    gap: var(--gap-base);
+  }
+  .mcdonalds-indonesia5,
+  .syarat-ketentuan-container3 {
+    font-size: var(--font-size-base);
+  }
+  .promo3 {
+    gap: var(--gap-base);
+  }
+}

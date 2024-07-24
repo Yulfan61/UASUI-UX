@@ -1,0 +1,79 @@
+.vector-icon5,
+.your-payment-is {
+  position: relative;
+}
+.vector-icon5 {
+  width: 24px;
+  height: 24px;
+}
+.vector-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.your-payment-is-successful-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 332px;
+}
+.kisspng-banking-in-india-mobil-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 334px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.kisspng-banking-in-india-mobil-wrapper {
+  width: 435px;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.print-invoce {
+  position: relative;
+}
+.notife-payment,
+.print-invoce-wrapper {
+  border-radius: var(--br-base);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.print-invoce-wrapper {
+  width: 202px;
+  background-color: var(--color-limegreen-100);
+  height: 88px;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-3xs);
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.notife-payment {
+  width: 920px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 808px;
+  flex-direction: column;
+  padding: var(--padding-5xl);
+  gap: 146px;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

@@ -1,0 +1,1243 @@
+.icon-mcdonalds {
+  width: 70px;
+  height: 66.8px;
+  position: relative;
+  cursor: pointer;
+}
+.mc-donald-icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+}
+.menu5 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  cursor: pointer;
+}
+.menu-item-container {
+  width: 147px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.promo1 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  cursor: pointer;
+}
+.promo-container {
+  width: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.dunia-anak1 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  white-space: nowrap;
+}
+.menu-options,
+.menu-options-container {
+  margin: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.menu-options-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-9xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.menu-options {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs) var(--padding-8xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.berita-terkini1 {
+  width: 210px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.berita-terkini-container {
+  width: 256px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-smi) var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.icon-maps-and-flags-41 {
+  width: 30px;
+  height: 30px;
+  position: relative;
+}
+.location-icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+}
+.lokasi1 {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  color: inherit;
+  cursor: pointer;
+}
+.lokasi-container,
+.menu3,
+.menu4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lokasi-container {
+  width: 210px;
+  flex-direction: column;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.menu3,
+.menu4 {
+  overflow: hidden;
+  flex-direction: row;
+  max-width: 100%;
+}
+.menu4 {
+  flex: 1;
+  background-color: var(--color-gainsboro-100);
+  padding: var(--padding-9xl) var(--padding-30xl) var(--padding-8xl-2)
+    var(--padding-124xl);
+  box-sizing: border-box;
+  gap: var(--gap-9xl);
+}
+.menu3 {
+  align-self: stretch;
+  background-color: var(--color-tomato-300);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.icon-mcdonalds1 {
+  height: 66.8px;
+  width: 70px;
+  position: relative;
+}
+.mcdonalds-indonesia1 {
+  align-self: stretch;
+  position: relative;
+}
+.header-title-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) 0 0;
+  box-sizing: border-box;
+  min-width: 253px;
+  max-width: 100%;
+}
+.header-container,
+.header-elements {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.header-elements {
+  width: 504px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+}
+.header-container {
+  width: 1344px;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-19xl);
+  box-sizing: border-box;
+  color: var(--color-tomato-200);
+  font-family: var(--font-baloo-da);
+}
+.lacak-pesanan1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.order-tracker-header {
+  width: 989px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+}
+.akun-saya {
+  align-self: stretch;
+  position: relative;
+}
+.account-separator {
+  width: 261px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.account-details,
+.account-name-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.account-name-container {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-4xl);
+}
+.account-details {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-12xl) var(--padding-4xs);
+  font-size: var(--font-size-17xl);
+}
+.order-history-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 252px;
+  overflow: hidden;
+  z-index: 1;
+}
+.lacak-pesanan2 {
+  position: absolute;
+  top: 14px;
+  left: 65px;
+  font-weight: 900;
+  display: inline-block;
+  width: 204px;
+  height: 27px;
+}
+.order-history-icon1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 252px;
+  overflow: hidden;
+  z-index: 2;
+}
+.order-history-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.account-options-container {
+  align-self: stretch;
+  height: 67px;
+  position: relative;
+}
+.tablerpoint-filled-icon {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 32px;
+}
+.pesanan-lalu {
+  flex: 1;
+  position: relative;
+  font-weight: 900;
+}
+.past-orders-container {
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-2xl);
+}
+.account-options,
+.past-orders,
+.past-orders-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.past-orders {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-mid) 0 var(--padding-4xs);
+}
+.account-options {
+  width: 269px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-mini);
+  box-sizing: border-box;
+  gap: var(--gap-31xl);
+}
+.tablerpoint-filled-icon1 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.favorites-elements {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.favorit-saya {
+  width: 197px;
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.favorites-container {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-4xs) var(--padding-4xl);
+  gap: var(--gap-6xl);
+}
+.tablerpoint-filled-icon2 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 32px;
+}
+.buku-alamat {
+  align-self: stretch;
+  position: relative;
+  font-weight: 900;
+}
+.buku-alamat-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.address-book,
+.address-book-container,
+.favorites {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.address-book-container {
+  flex: 1;
+  gap: var(--gap-3xl);
+}
+.address-book,
+.favorites {
+  width: 232px;
+  padding: 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.favorites {
+  width: 252px;
+  flex-direction: column;
+  padding: 0 0 var(--padding-mini);
+  gap: var(--gap-31xl);
+}
+.tablerpoint-filled-icon3 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.account-settings-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.pengaturam-akun {
+  position: relative;
+  font-weight: 900;
+  flex-shrink: 0;
+}
+.account-settings {
+  width: 252px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-4xs) var(--padding-4xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+}
+.tablerpoint-filled-icon4 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.change-password-elements {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.ganti-password {
+  flex: 1;
+  position: relative;
+  font-weight: 900;
+}
+.change-password-container {
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-xl);
+}
+.account-info,
+.account-info-wrapper,
+.change-password,
+.change-password-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.change-password {
+  width: 261px;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.account-info,
+.account-info-wrapper {
+  flex-direction: column;
+}
+.account-info {
+  align-self: stretch;
+  gap: 46px;
+}
+.account-info-wrapper {
+  width: 294px;
+  padding: 145px 0 0;
+  box-sizing: border-box;
+}
+.nomor-pesanan {
+  margin: 0;
+  width: 402px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.order-number-placeholder {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.order-number,
+.order-number-value {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.order-number-value {
+  width: 398px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+}
+.order-number {
+  width: 940px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.estimasi-waktu1,
+.span {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.span {
+  font-weight: 900;
+}
+.estimasi-waktu {
+  margin: 0;
+  width: 869px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  font-family: inherit;
+}
+.estimated-time-placeholder {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  white-space: pre-wrap;
+  flex-shrink: 0;
+}
+.estimated-time-value {
+  width: 398px;
+  flex-direction: column;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+  margin-left: -250px;
+  font-size: var(--font-size-13xl);
+}
+.estimated-time,
+.estimated-time-value,
+.order-details-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.estimated-time {
+  align-self: stretch;
+  flex-direction: row;
+  max-width: 100%;
+}
+.order-details-container {
+  width: 975px;
+  flex-direction: column;
+  gap: 77px;
+  max-width: 108%;
+  flex-shrink: 0;
+}
+.pesanan-diterima1,
+.span1 {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.span1 {
+  font-weight: 900;
+}
+.pesanan-diterima {
+  margin: 0;
+  width: 869px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 105%;
+  font-family: inherit;
+}
+.pesanan-diterima-wrapper {
+  width: 834px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.grommet-iconsnotes {
+  height: 66.8px;
+  width: 70px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.order-status-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.sedang-diantar1,
+.span2 {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.span2 {
+  font-weight: 900;
+}
+.sedang-diantar {
+  margin: 0;
+  width: 869px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 105%;
+  font-family: inherit;
+}
+.sedang-diantar-wrapper {
+  width: 834px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.streamlinetransfer-motorcycle-icon {
+  height: 66.8px;
+  width: 70px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.delivery-steps {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.span3,
+.terkirim1 {
+  font-weight: 600;
+  white-space: pre-wrap;
+}
+.span3 {
+  font-weight: 900;
+}
+.terkirim {
+  margin: 0;
+  width: 869px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 105%;
+  font-family: inherit;
+}
+.terkirim-wrapper {
+  width: 834px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.arcticonsmcdonalds {
+  height: 70px;
+  width: 70px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.delivery-progress,
+.delivery-steps1,
+.order-status {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.delivery-steps1 {
+  flex-direction: row;
+  row-gap: 20px;
+}
+.delivery-progress,
+.order-status {
+  flex-direction: column;
+  gap: 99.2px;
+}
+.order-status {
+  padding: 0 0 398px;
+  box-sizing: border-box;
+  gap: 109.2px;
+}
+.lanjutkan-pesanan {
+  position: relative;
+  font-size: var(--font-size-17xl);
+  line-height: 44px;
+  font-weight: 800;
+  font-family: var(--font-lato);
+  color: var(--color-white);
+  text-align: left;
+}
+.continue-order-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xl-5) var(--padding-xl);
+  background-color: var(--color-tomato-200);
+  width: 474px;
+  border-radius: var(--br-base);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.continue-order-container:hover {
+  background-color: var(--color-tomato-100);
+}
+.continue-order,
+.continue-order-container,
+.frame-parent6,
+.order-details {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.continue-order {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 0 60px;
+  box-sizing: border-box;
+}
+.frame-parent6,
+.order-details {
+  gap: var(--gap-91xl);
+}
+.order-details {
+  width: 962px;
+  background-color: #f8f8f8;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 85px var(--padding-4xl) 65px var(--padding-16xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-29xl);
+}
+.frame-parent6 {
+  flex-direction: row;
+  justify-content: center;
+  font-size: var(--font-size-5xl);
+}
+.content,
+.content-header,
+.menu-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.content-header {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 45px;
+}
+.content,
+.menu-parent {
+  align-items: flex-start;
+}
+.content {
+  flex-direction: row;
+  padding: 0 var(--padding-7xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.menu-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 47px;
+}
+.blank-line7,
+.mcdonalds1 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+}
+.blank-line10,
+.blank-line8,
+.blank-line9,
+.hubungi-kami2,
+.karier1,
+.newsroom1,
+.tentang-kami1 {
+  margin: 0;
+}
+.mcdonalds-hubungi-kami-container1 {
+  width: 209px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 209px;
+}
+.aplikasi-mcdonalds1,
+.blank-line11,
+.blank-line12,
+.blank-line13,
+.csr1,
+.layanan1,
+.sertifikasi-jaminan1 {
+  margin: 0;
+}
+.layanan-sertifikasi-container1 {
+  position: relative;
+}
+.footer-links,
+.footer-links-more {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-links-more {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-49xl) 0 0;
+  box-sizing: border-box;
+  min-width: 168px;
+}
+.footer-links {
+  width: 478px;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+  max-width: 100%;
+}
+.hubungi-kami3 {
+  flex: 1;
+  position: relative;
+  font-weight: 800;
+}
+.hubungi-kami-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-xs);
+}
+.icon-facebook-icon1,
+.icon-instagram-icon,
+.icon-twitter1 {
+  height: 50px;
+  width: 50.1px;
+  position: relative;
+  min-height: 50px;
+}
+.icon-youtube {
+  align-self: stretch;
+  height: 34.9px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.youtube-icon-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-10xs-1);
+}
+.contact-us-container,
+.social-icons {
+  width: 254.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.contact-us-container {
+  width: 283.2px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-8xl);
+}
+.button-appstore-1-icon1,
+.button-playstore-1-icon1 {
+  align-self: stretch;
+  width: 150px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 43px;
+}
+.app-store-container,
+.youtube-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.app-store-container {
+  gap: var(--gap-mid);
+}
+.youtube-container {
+  padding: 0 0 0 var(--padding-xs);
+}
+.contact-us,
+.footer-container,
+.footer-content {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.contact-us {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+  font-size: var(--font-size-13xl);
+}
+.footer-container,
+.footer-content {
+  flex-direction: row;
+}
+.footer-content {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.footer-container {
+  width: 1296px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-34xl);
+  box-sizing: border-box;
+}
+.mcdonalds-indonesia2 {
+  width: 308px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.syarat-ketentuan3 {
+  text-decoration: underline;
+}
+.syarat-ketentuan2 {
+  color: inherit;
+}
+.node1,
+.syarat-ketentuan2 {
+  white-space: pre-wrap;
+}
+.kebijakan-privasi3 {
+  text-decoration: underline;
+}
+.kebijakan-privasi2 {
+  color: inherit;
+  white-space: pre-wrap;
+}
+.syarat-ketentuan-container1 {
+  align-self: stretch;
+  position: relative;
+}
+.copyright-container,
+.terms-container {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.terms-container {
+  width: 418px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+}
+.copyright-container {
+  align-self: stretch;
+  background-color: var(--color-gainsboro-200);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-16xl) var(--padding-13xl) var(--padding-20xl)
+    var(--padding-27xl);
+  gap: var(--gap-xl);
+}
+.footer,
+.lacak-pesanan {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer {
+  align-self: stretch;
+  gap: var(--gap-8xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.lacak-pesanan {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-goldenrod);
+  overflow: hidden;
+  gap: 357px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .order-details {
+    padding-top: 55px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+  .frame-parent6 {
+    flex-wrap: wrap;
+  }
+  .footer-container {
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .account-info-wrapper {
+    padding-top: 94px;
+    box-sizing: border-box;
+  }
+  .order-number {
+    flex-wrap: wrap;
+  }
+  .order-details-container {
+    gap: 38px;
+  }
+  .delivery-steps,
+  .delivery-steps1,
+  .order-status-container {
+    flex-wrap: wrap;
+  }
+  .delivery-progress {
+    gap: var(--gap-31xl);
+  }
+  .order-status {
+    padding-bottom: 259px;
+    box-sizing: border-box;
+  }
+  .order-details,
+  .order-status {
+    gap: var(--gap-36xl);
+  }
+  .copyright-container,
+  .footer-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .menu4 {
+    padding-left: var(--padding-52xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .mcdonalds-indonesia1 {
+    font-size: var(--font-size-7xl);
+  }
+  .header-elements {
+    gap: var(--gap-3xl);
+  }
+  .lacak-pesanan1 {
+    font-size: var(--font-size-19xl);
+  }
+  .akun-saya {
+    font-size: var(--font-size-10xl);
+  }
+  .nomor-pesanan {
+    font-size: var(--font-size-19xl);
+  }
+  .order-number-placeholder {
+    font-size: var(--font-size-7xl);
+  }
+  .estimasi-waktu {
+    font-size: var(--font-size-19xl);
+  }
+  .estimated-time-placeholder {
+    font-size: var(--font-size-7xl);
+  }
+  .order-details-container {
+    gap: var(--gap-lgi);
+  }
+  .pesanan-diterima,
+  .sedang-diantar,
+  .terkirim {
+    font-size: var(--font-size-19xl);
+  }
+  .continue-order {
+    padding-left: 30px;
+    box-sizing: border-box;
+  }
+  .order-details {
+    gap: var(--gap-8xl);
+    padding-top: var(--padding-17xl);
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .frame-parent6 {
+    gap: var(--gap-36xl);
+  }
+  .content-header {
+    gap: var(--gap-3xl);
+  }
+  .menu-parent {
+    gap: var(--gap-4xl);
+  }
+  .hubungi-kami3 {
+    font-size: var(--font-size-7xl);
+  }
+  .copyright-container {
+    padding-left: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .lacak-pesanan {
+    gap: 178px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .menu4 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .mcdonalds-indonesia1 {
+    font-size: var(--font-size-lgi);
+  }
+  .lacak-pesanan1 {
+    font-size: var(--font-size-10xl);
+  }
+  .akun-saya {
+    font-size: var(--font-size-3xl);
+  }
+  .lacak-pesanan2,
+  .pesanan-lalu {
+    font-size: var(--font-size-lgi);
+  }
+  .account-options {
+    gap: var(--gap-6xl);
+  }
+  .buku-alamat,
+  .favorit-saya {
+    font-size: var(--font-size-lgi);
+  }
+  .favorites {
+    gap: var(--gap-6xl);
+  }
+  .ganti-password,
+  .pengaturam-akun {
+    font-size: var(--font-size-lgi);
+  }
+  .account-info {
+    gap: var(--gap-4xl);
+  }
+  .account-info-wrapper {
+    padding-top: 61px;
+    box-sizing: border-box;
+  }
+  .nomor-pesanan {
+    font-size: var(--font-size-10xl);
+  }
+  .order-number-placeholder {
+    font-size: var(--font-size-lgi);
+  }
+  .estimasi-waktu {
+    font-size: var(--font-size-10xl);
+  }
+  .estimated-time-placeholder {
+    font-size: var(--font-size-lgi);
+  }
+  .pesanan-diterima,
+  .sedang-diantar,
+  .terkirim {
+    font-size: var(--font-size-10xl);
+  }
+  .delivery-progress {
+    gap: var(--gap-6xl);
+  }
+  .order-status {
+    padding-bottom: 168px;
+    box-sizing: border-box;
+  }
+  .frame-parent6,
+  .order-status {
+    gap: var(--gap-8xl);
+  }
+  .mcdonalds-hubungi-kami-container1 {
+    font-size: var(--font-size-base);
+    flex: 1;
+  }
+  .layanan-sertifikasi-container1 {
+    font-size: var(--font-size-base);
+  }
+  .footer-links {
+    flex-wrap: wrap;
+  }
+  .hubungi-kami3 {
+    font-size: var(--font-size-lgi);
+  }
+  .app-store-container {
+    flex-wrap: wrap;
+  }
+  .contact-us {
+    gap: var(--gap-2xl);
+  }
+  .mcdonalds-indonesia2,
+  .syarat-ketentuan-container1 {
+    font-size: var(--font-size-base);
+  }
+  .lacak-pesanan {
+    gap: 89px;
+  }
+}
